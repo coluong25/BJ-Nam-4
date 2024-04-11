@@ -1,0 +1,272 @@
+# Blender 4.0.0 MTL File: 'cat67 cho mixamo.blend'
+# www.blender.org
+
+newmtl Material.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Head.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Head.png
+
+newmtl Material.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Body.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Body.png
+
+newmtl Material.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+
+newmtl Material.030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+
+newmtl Material.031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+
+newmtl Material.032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+
+newmtl Material.033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+
+newmtl Material.034
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+
+newmtl Material.035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+
+newmtl Material.036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+
+newmtl Material.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+
+newmtl Material.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+
+newmtl Material.039
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Eye2.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Eye2.png
+
+newmtl Material.040
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Ear1.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Ear1.png
+
+newmtl Material.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Ear2.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Ear2.png
+
+newmtl Material.042
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Nose.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Nose.png
+
+newmtl Material.043
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Mouth.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Mouth.png
+
+newmtl Material.044
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+
+newmtl Material.045
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+
+newmtl Material.046
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+
+newmtl Material.047
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw02.png
+
+newmtl Material.048
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+
+newmtl Material.049
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+
+newmtl Material.050
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+
+newmtl Material.051
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Paw04.png
+
+newmtl Material.052
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Tail.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Tail.png
+
+newmtl Material.053
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd E:/Blender PJ/Nhan vat/Lam lai/2/textures/Untitled.png
+map_d E:/Blender PJ/Nhan vat/Lam lai/2/textures/Untitled.png
